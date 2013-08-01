@@ -1,5 +1,7 @@
-'Complexity,  sustainability,  hacking and you' paper LaTeX source
+Complexity,  sustainability,  hacking and you
 ===================================================================
+
+*Paper LaTeX source*
 
 Getting started
 ---------------
